@@ -1,0 +1,19 @@
+body {
+  background-color: #;
+  padding-top: 60px;
+  position: relative;
+  overflow-y: auto;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
